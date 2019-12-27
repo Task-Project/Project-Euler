@@ -1,0 +1,15 @@
+Salve, sono Valerio Sepe e sono un programmatore (Junior), specializzato nel linguaggio di 
+programmazione C++.
+Ho svolto il mio percorso scolastico presso l'Istituto Tecnico I.T.T. A. Pacinotti,
+con un indirizzo informatico.
+Durante il corso degli studi sono stato scelto per partecipare alle
+Olimpiadi Informatiche Individuali (O.I.I.), grazie alle quali ho avuto l'opportunità
+di seguire i corsi preparatori delle territoriali O.I.I. 2018/2019 presso la LUISS e La Sapienza.
+Tramite queste esperienze ho acquisito delle competenze certificate, che mi hanno
+spinto ad approfondire lo studio della programmazione e della matematica.
+Alla luce di ciò, ho deciso di utilizzare questa piattaforma per 
+racchiude tutti i miei progetti. La maggior parte degli allegati sono risoluzioni dei problemi
+di Project Euler, il sito dove mi alleno e mi diverto.
+Mi piace molto il problem solving e adoro problemi sui diversi approcci ad esempio:
+Greedy, Grafi, Dinamica...
+Sono sempre pronto ad imparare cose nuove. (;
