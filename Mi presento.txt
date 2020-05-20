@@ -1,5 +1,4 @@
-Salve, sono Valerio Sepe e sono un programmatore (Junior), specializzato nel linguaggio di 
-programmazione C++.
+Salve, sono Valerio Sepe e per la maggior parte dei miei progetti e problemi utilizzo il C++.
 Ho svolto il mio percorso scolastico presso l'Istituto Tecnico I.T.T. A. Pacinotti,
 con un indirizzo informatico.
 Durante il corso degli studi sono stato scelto per partecipare alle
